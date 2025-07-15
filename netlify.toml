@@ -1,0 +1,4 @@
+[build]
+  node_version = "18"
+  publish = "build"
+  command = "npm run build"
